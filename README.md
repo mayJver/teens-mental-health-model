@@ -28,7 +28,7 @@ To run this notebook locally, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/teens-mental-health-model.git
+    git clone https://github.com/mayJver/teens-mental-health-model.git
     cd teens-mental-health-model
     ```
 
